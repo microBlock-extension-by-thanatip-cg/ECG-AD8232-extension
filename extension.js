@@ -1,11 +1,11 @@
 ({
-    name: "ECG Sensors", // Category Name
+    name: "ECG-AD8232", // Category Name
     description: "ADB8232 ECG Sensors",
     author: "AJ.TAY",
     category: "Sensors",
     version: "1.0.0",
     icon: "/static/icon.png", // Category icon
-    color: "#0f3058", // Category color (recommend some blocks color)
+    color: "#004098", // Category color (recommend some blocks color)
     blocks: [ // Blocks in Category
 	{
             xml: `
